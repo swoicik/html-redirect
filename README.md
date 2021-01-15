@@ -4,7 +4,7 @@ This is a basic HTML redirect template that can be used with GitHub Pages.
 Some domain registrars charge a fee to redirect your website, so I created this easy template to redirect a domain by pointing it to GitHub. 
 
 How  To Use:
-1. Close this repository
+1. Fork this repository
 2. Edit index.html 
 3. Replace url "swoicik.com" with the domain you wish to use
 4. Commit your changes
